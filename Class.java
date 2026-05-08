@@ -1,7 +1,7 @@
 public class Student {
     public String name;
     public int id;
-    public int rol
+    public int roll;
   public class Studentid {
 
     public static void main(String[] args) {
