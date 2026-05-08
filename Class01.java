@@ -27,7 +27,7 @@ public class Class01 {
          teacher2.name="muslima";
         teacher2.gender="women";
         teacher2.number=1255467565;
-        teacher2.person="better";
+        teacher2.person="best";
         
         
         System.out.println("name:"+teacher2.name);
